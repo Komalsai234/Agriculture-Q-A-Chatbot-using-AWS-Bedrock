@@ -1,0 +1,7 @@
+boto3
+awscli
+langchain
+streamlit
+langchain-community
+pinecone-client
+pypdf
