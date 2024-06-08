@@ -69,7 +69,7 @@ Before you begin, ensure you have met the following requirements:
     Run the `main.py` script to start the Streamlit web application.
 
     ```bash
-    streamlit run src/main.py
+    streamlit run main.py
     ```
 
 3. **Interact with the Chatbot**
