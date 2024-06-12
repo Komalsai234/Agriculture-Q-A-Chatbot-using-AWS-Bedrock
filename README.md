@@ -83,7 +83,7 @@ Before you begin, ensure you have met the following requirements:
     1. Go to the AWS Management Console.
     2. Navigate to IAM (Identity and Access Management).
     3. Create a new user with programmatic access.
-    4. Attach necessary policies for Bedrock and S3 access.
+    4. Attach necessary policies for Bedrock.
     5. Save the access key ID and secret access key.
 
 ### AWS Bedrock Access
