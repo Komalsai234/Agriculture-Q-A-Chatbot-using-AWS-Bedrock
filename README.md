@@ -34,7 +34,6 @@ Before you begin, ensure you have met the following requirements:
 
     ```bash
     git clone https://github.com/yourusername/agriculture-chatbot.git
-    cd agriculture-chatbot
     ```
 
 2. **Install Required Packages**
